@@ -31,12 +31,6 @@ O objetivo é praticar a lógica de programação utilizando a linguagem **Pytho
 - Praticar manipulação de listas, vetores e matrizes.
 - Preparar a base lógica para linguagens futuras e estruturas mais complexas.
 
-## 💻 Tecnologias Utilizadas
-
-- Linguagem: **Python 3.x**
-- Editor recomendado: **VS Code** ou **PyCharm**
-- Execução: terminal ou ambiente online como [Replit](https://replit.com/), [Google Colab](https://colab.research.google.com/) ou [Jupyter Notebook](https://jupyter.org/)
-
 ## 📚 Instituição
 
 > FATEC Presidente Prudente – Faculdade de Tecnologia
