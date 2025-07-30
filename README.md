@@ -1,44 +1,53 @@
 # 🐍 Exercícios Python
 
-Este repositório contém exercícios práticos desenvolvidos na disciplina de **Lógica de Programação** durante o curso de **Análise e Desenvolvimento de Sistemas** na **FATEC Presidente Prudente**.
+Este repositório reúne exercícios práticos desenvolvidos na disciplina de **Lógica de Programação**, ministrada no curso de **Análise e Desenvolvimento de Sistemas** da **FATEC Presidente Prudente**.
 
-O objetivo é praticar a lógica de programação utilizando a linguagem **Python**, abordando os principais conceitos fundamentais da programação estruturada.
+Os exercícios foram realizados utilizando a linguagem **Python**, com o objetivo de fixar os principais conceitos da programação estruturada e desenvolver o raciocínio lógico de forma progressiva.
 
 ## 📁 Estrutura das Pastas
 
 - `entrada-saida/`  
-  Exercícios sobre entrada e saída de dados no console.
+  Introdução à entrada e saída de dados via console.
+
+- `estrutura-dados/`  
+  Estruturação de variáveis compostas como listas e dicionários.
 
 - `estrutura-decisao/`  
-  Exercícios com uso de estruturas condicionais (`if`, `else`, `elif`).
+  Estruturas condicionais: `if`, `elif`, `else`.
 
 - `estrutura-repeticao/`  
-  Exercícios com uso de estruturas de repetição com contador (`for`).
+  Laços com contador como `for`.
 
 - `estrutura-repeticao-sem-contador/`  
-  Exercícios com uso de laços sem contador (`while`).
+  Laços baseados em condições como `while`.
+
+- `excel-csv/`  
+  Leitura e escrita de arquivos `.csv` com Python.
+
+- `funcoes-com-parametro-com-e-retorno/`  
+  Funções que recebem parâmetros e retornam valores.
+
+- `funcoes-com-parametro-e-sem-retorno/`  
+  Funções com parâmetros, mas sem retorno.
+
+- `funcoes-sem-parametro-e-com-retorno/`  
+  Funções sem parâmetros, mas que retornam valores.
+
+- `funcoes-sem-parametro-e-retorno/`  
+  Funções simples, sem parâmetros nem retorno.
 
 - `matriz/`  
-  Exercícios com matrizes (listas bidimensionais).
+  Manipulação de listas bidimensionais (matrizes).
 
 - `vetor/`  
-  Exercícios com vetores (listas simples).
+  Trabalhos com listas simples (vetores).
 
-## 🧠 Objetivos de Aprendizado
+## 🎯 Objetivos do Projeto
 
-- Compreender os fundamentos da linguagem Python.
-- Desenvolver algoritmos usando lógica sequencial, condicional e repetição.
-- Praticar manipulação de listas, vetores e matrizes.
-- Preparar a base lógica para linguagens futuras e estruturas mais complexas.
+- Praticar os fundamentos da programação com Python.
+- Desenvolver algoritmos estruturados de forma clara e lógica.
+- Estimular a resolução de problemas com diferentes abordagens.
+- Preparar a base para estudos futuros em estruturas de dados, POO e desenvolvimento web.
 
-## 📚 Instituição
-
-> FATEC Presidente Prudente – Faculdade de Tecnologia
-
-Curso: Análise e Desenvolvimento de Sistemas  
-Semestre: 1º  
-Disciplina: Lógica de Programação
-
----
 
 
